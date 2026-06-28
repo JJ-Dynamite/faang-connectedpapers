@@ -9,7 +9,7 @@ services:
       - "3001:3001"
     environment:
       - RUST_LOG=info
-      - DATABASE_URL=postgres://postgres:postgres@db:5432/connectedpapers
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/faang_connectedpapers
     depends_on:
       db:
         condition: service_healthy
@@ -32,7 +32,7 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=connectedpapers
+      - POSTGRES_DB=faang_connectedpapers
     ports:
       - "5432:5432"
     volumes:

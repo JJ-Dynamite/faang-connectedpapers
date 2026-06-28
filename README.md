@@ -1,6 +1,6 @@
 # Visualize and map research
 
-[![CI](https://github.com/JJ-Dynamite/connectedpapers/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/connectedpapers/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-connectedpapers/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-connectedpapers/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Visualize and map research - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/connectedpapers.git
+git clone https://github.com/JJ-Dynamite/faang-connectedpapers.git
 cd connectedpapers
 
 # Install backend dependencies
