@@ -1,11 +1,11 @@
 [package]
-name = "faang-connectedpapers-backend"
+name = "connectedpapers-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Visualize and map research - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-connectedpapers"
+repository = "https://github.com/JJ-Dynamite/connectedpapers"
 
 [dependencies]
 axum = "0.7"

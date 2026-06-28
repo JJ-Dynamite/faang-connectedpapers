@@ -1,4 +1,4 @@
-# Contributing to faang-connectedpapers
+# Contributing to connectedpapers
 
 Thank you for your interest in contributing!
 
